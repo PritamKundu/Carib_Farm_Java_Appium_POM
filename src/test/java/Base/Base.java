@@ -4,6 +4,9 @@ import io.appium.java_client.android.AndroidDriver;
 import org.aspectj.lang.annotation.After;
 import org.aspectj.lang.annotation.Before;
 import org.openqa.selenium.remote.DesiredCapabilities;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
+
 import java.net.MalformedURLException;
 import java.net.URL;
 
