@@ -21,7 +21,6 @@
 5. Automate Post Comment
 6. Automate Post Share
 
-
 ----------------------------------------------------------
 
 ## Prerequisite:
@@ -31,3 +30,18 @@
 * Appium Server
 * Appium Inspector
 * Android studio Emulator or Real Device
+
+----------------------------------------------------------
+
+## Run the Automation Script:
+1. Open terminal to the project folder using IntellIJ
+2. Run the testNG.xml file.
+3. After Complete the test execution Report will generate to "allure-result" Folder
+4. Run the "allure serve" in the terminal & view the html report
+
+----------------------------------------------------------
+
+## Allure Report view from browser:
+<p align="center"> <img src="https://github.com/PritamKundu/PritamKundu/blob/main/carib_farm/carib_farm_allure_report_by_pranta_kundu.PNG" alt="pritamkundu" />
+<p align="center"> <img src="https://github.com/PritamKundu/PritamKundu/blob/main/carib_farm/carib_farm_1_allure_report_by_pranta_kundu.PNG" alt="pritamkundu" />
+<p align="center"> <img src="https://github.com/PritamKundu/PritamKundu/blob/main/carib_farm/carib_farm_2_allure_report_by_pranta_kundu.PNG" alt="pritamkundu" />
