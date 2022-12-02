@@ -34,10 +34,9 @@
 ----------------------------------------------------------
 
 ## Run the Automation Script:
-1. Open terminal to the project folder using IntellIJ
-2. Run the testNG.xml file.
-3. After Complete the test execution Report will generate to "allure-result" Folder
-4. Run the "allure serve" in the terminal & view the html report
+1.Run the testNG.xml file.
+2.After Complete the test execution Report will generate to "allure-result" Folder
+3.Run the "allure serve" in the terminal & view the html report
 
 ----------------------------------------------------------
 
