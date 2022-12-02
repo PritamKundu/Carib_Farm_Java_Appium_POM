@@ -10,6 +10,7 @@
 * Report: Allure <br>
 * Project Structure: Page object Model(POM)<br>
 * IDE: IntellIJ <br>
+* 
 
 ----------------------------------------------------------
 
