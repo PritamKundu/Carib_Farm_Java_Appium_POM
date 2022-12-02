@@ -34,9 +34,9 @@
 ----------------------------------------------------------
 
 ## Run the Automation Script:
-1.Run the testNG.xml file.
-2.After Complete the test execution Report will generate to "allure-result" Folder
-3.Run the "allure serve" in the terminal & view the html report
+1. Run the testNG.xml file.
+2. After Complete the test execution Report will generate to "allure-result" Folder
+3. Run the "allure serve" in the terminal & view the html report
 
 ----------------------------------------------------------
 
