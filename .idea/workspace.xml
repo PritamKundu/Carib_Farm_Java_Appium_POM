@@ -5,8 +5,71 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9858f8d-02ff-418b-a7a3-752d8fb4ac41" name="Changes" comment="Test case final !">
+      <change afterPath="$PROJECT_DIR$/allure-results/03dd6bcc-6fc5-4cd6-b345-0d136757a340-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/09810389-f0e3-46a1-9736-86309092a87a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0c86ae9b-ee5a-4bcf-8c20-f11f0ddb4fc5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0f5bb3b5-22ea-402d-9628-8ece346b5e10-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2551745e-3767-4eba-b5a8-27d6f06637b9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/28cfc1b0-4522-41c3-b082-c2308a5a3e37-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2d8b71c6-cdb2-47e7-bd58-ec722da21fc4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2e333dcf-e21e-44ac-a915-5cc46ce9eafa-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/34938a1c-de28-4d1e-940a-77e8fee339a8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/52f50613-7385-4ca1-9071-315adffe1ddc-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5dc500e5-e826-4227-b116-f7f65e369bb6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5fa99974-6aa5-4b4e-926f-09cf6c1df9d2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5fd531ea-4ec8-4e01-be94-eafec1207b75-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/62297a8b-5d8a-4b92-b06b-ff6fc9d14f95-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6d916d45-c243-4d99-9b80-023327ff9925-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7aac126b-7563-4453-95f5-d41509607a7b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/868b3984-dacc-4720-8c5a-9ddcd39db56c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8b580786-3312-4a02-aad1-400f8bc58f2a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/91344026-d0dc-4fbe-9888-262b3e1b669c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/92061376-9068-4871-abe1-3bce816b7d5c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/92dec464-0f18-43db-9596-2f6282703003-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9654172e-1b95-4c29-b691-8fc5f84eed54-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/96ddfea4-a4f8-43f6-bc6e-1edea81e80f0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9d50f69a-6080-47a2-a624-f759dafa104d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ac6e1c6d-d88a-449f-9b54-2d135bf8a394-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b2962871-1097-4142-bb25-3dbf8b4443a3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bbacf693-7e30-4a1b-aab6-0f2e9ac0ccff-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/be37a640-3cdf-480a-b2af-ac50cae550f5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c07f1d22-16ca-42c4-9c46-2fd4fc88166e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c25b5e78-7440-43a4-9759-6fe472c6c24d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c3567532-3a02-4f39-9017-2cca26bb6fb1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c87b30e4-fc2b-4047-8a55-7e82aab18454-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cb32abf1-0c84-4725-993f-d3b5dce51132-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d13b7d56-be01-46c8-9c54-053249409be4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d269eea3-0d26-4686-b9e8-8bbeca74ff31-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d92826db-ac5b-42cb-8356-fb8c1fbfa821-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e0ea1fc6-937a-4720-921b-432005b9e1cc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e42bb069-c959-497a-8dd8-2e42b5c6cd52-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e70fdebb-074d-4836-a3e3-55cc00748c4f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f067b3a4-5377-46b7-8f26-f49e7f80edec-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f1f10bec-f47d-4ca6-b72e-f7b9b34152f6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f40327ea-fc53-44f6-a6a6-91b428344745-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f6f9c242-35af-4d6d-b66d-aa16fd96e869-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/fb162ed2-423d-414f-bd6c-12001883eccb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Page/CaribFarm_Upload_Post_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Test/CaribFarm_Upload_Post_Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/00e00c3a-0c83-416a-980e-052b79fe36e6-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/014415d3-52d0-44b9-bd6a-d102d26eb8c1-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/0838aa4a-7644-43ab-9e41-4454a0851476-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/23b3590c-89fc-4e20-acff-7c3336611d2a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/2cb70ddd-f2d2-476f-a969-7ddb454b134b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/2f13f49d-5e58-44b8-a93c-7bef73a03315-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/44816e70-bafd-4317-bece-30ebc3a16c61-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/5de5fffa-adc6-4233-8aca-f28affbf1a1d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/6da78937-898a-46cf-b1e9-f8cc594e8343-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/76828af5-aef6-49a9-a4b1-2d0ef7fa8704-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/a8c024fa-0934-4f7a-98a5-03c7be7b65c0-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/cc35b7b9-8871-465e-9d52-779a26b77b72-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/e0852f2f-383d-4a64-95d3-c64f77caa1fe-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/f13ff63c-0816-4c03-bdc5-a3a2c78f4b82-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Page/CaribFarm_Post_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Page/CaribFarm_Post_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Base/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Base/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test/CaribFarm_Post_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/CaribFarm_Post_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testNg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testNg.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +111,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ignore.preview.features.used" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Compressed/Java_Appium_POM_Flicker.com-main/Java_Appium" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -59,11 +122,11 @@
       <recent name="C:\Users\prita\Downloads\Compressed\Appium_Java_Cucumber_Pinterest-main_2\Appium_Java_POM\app" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Page" />
       <recent name="Test" />
+      <recent name="Page" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/prita/OneDrive/Desktop/Carib_Farm_Java_Appium_POM/testNg.xml">
+  <component name="RunManager" selected="TestNG.CaribFarm_Upload_Post_Test">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Java_Appium_Carib_Farm" />
       <method v="2">
@@ -73,16 +136,6 @@
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <module name="Java_Appium_Carib_Farm" />
       <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/prita/Downloads/Compressed/Appium_Java_Cucumber_Pinterest-main_2/Appium_Java_POM/testNg.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Java_Appium_Carib_Farm" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testNg.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -115,10 +168,10 @@
       </method>
     </configuration>
     <configuration name="CaribFarm_Post_Test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Java_Appium_Carib_Farm" />
+      <module name="Carib_Farm_Java_Appium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Page.*" />
+          <option name="PATTERN" value="Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,8 +184,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CaribFarm_Post_Test.verifyPost" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Java_Appium_Carib_Farm" />
+    <configuration name="CaribFarm_Upload_Post_Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Carib_Farm_Java_Appium" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Test.*" />
@@ -140,9 +193,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Test" />
-      <option name="MAIN_CLASS_NAME" value="Test.CaribFarm_Post_Test" />
-      <option name="METHOD_NAME" value="verifyPost" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="MAIN_CLASS_NAME" value="Test.CaribFarm_Upload_Post_Test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Carib_Farm_Java_Appium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
       <properties />
       <listeners />
       <method v="2">
@@ -151,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/prita/OneDrive/Desktop/Carib_Farm_Java_Appium_POM/testNg.xml" />
-        <item itemvalue="TestNG.CaribFarm_Post_Test (1)" />
+        <item itemvalue="TestNG.CaribFarm_Upload_Post_Test" />
         <item itemvalue="TestNG.CaribFarm_Post_Test" />
-        <item itemvalue="TestNG.C:/Users/prita/Downloads/Compressed/Appium_Java_Cucumber_Pinterest-main_2/Appium_Java_POM/testNg.xml" />
-        <item itemvalue="TestNG.CaribFarm_Post_Test.verifyPost" />
+        <item itemvalue="TestNG.CaribFarm_Post_Test (1)" />
+        <item itemvalue="TestNG.C:/Users/prita/OneDrive/Desktop/Carib_Farm_Java_Appium_POM/testNg.xml" />
+        <item itemvalue="TestNG.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +264,28 @@
       <option name="project" value="LOCAL" />
       <updated>1670007529328</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Test case final !">
+      <created>1670009875135</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670009875135</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Test case final !">
+      <created>1670009969557</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670009969557</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Test case final !">
+      <created>1670010069169</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670010069169</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -8,7 +8,7 @@ public class CaribFarm_Post_Test extends Base{
     Base base = new Base();
     CaribFarm_Post_Page post;
 
-    public CaribFarm_Post_Test() throws MalformedURLException {
+    public CaribFarm_Post_Test() throws MalformedURLException, InterruptedException {
         base.setDriver();
         post = new CaribFarm_Post_Page(Base.driver);
     }

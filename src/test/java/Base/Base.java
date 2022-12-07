@@ -4,6 +4,7 @@ import io.appium.java_client.android.AndroidDriver;
 import org.aspectj.lang.annotation.After;
 import org.aspectj.lang.annotation.Before;
 import org.openqa.selenium.remote.DesiredCapabilities;
+import org.openqa.selenium.remote.LocalFileDetector;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 
@@ -22,6 +23,7 @@ public class Base {
         //capabilities.setCapability("app", System.getProperty("user.dir") + "/app/app-debug.apk");
         capabilities.setCapability("appPackage", "community.farmer.caribfarm");
         capabilities.setCapability("appActivity", "community.farmer.caribfarm.MainActivity");
+        capabilities.setCapability("autoGrantPermissions", "true");
         driver = new AndroidDriver(new URL("http://localhost:4723/wd/hub"), capabilities);
     }
 

@@ -49,7 +49,7 @@ public class CaribFarm_Post_Page extends PageObjectManager {
     }
 
     public void profileImage() {
-        driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         isElementDisplayed("xpath", profileImage);
     }
 
