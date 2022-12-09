@@ -35,6 +35,7 @@ public class CaribFarm_Upload_Post_Page extends PageObjectManager {
         SendKeysToInputField("id", descriptionBox, description);
     }
 
+
     public void imageUpload() {
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         isElementDisplayed("id", imageUpload);
