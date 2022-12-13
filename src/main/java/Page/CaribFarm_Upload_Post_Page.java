@@ -41,7 +41,6 @@ public class CaribFarm_Upload_Post_Page extends PageObjectManager {
         clickElement("id", imageUpload);
     }
 
-
     public void clickGallery() {
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         isElementDisplayed("xpath", gallery);
