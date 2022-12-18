@@ -29,7 +29,6 @@ public class CaribFarm_Upload_Post_Page extends PageObjectManager {
         Assert.assertEquals(getElement("classname", addNewPost).getText(), add_new_post);
     }
 
-
     public void enterDescription(String description) throws InterruptedException {
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         isElementDisplayed("id", descriptionBox);
