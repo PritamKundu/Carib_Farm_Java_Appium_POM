@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9858f8d-02ff-418b-a7a3-752d8fb4ac41" name="Changes" comment="Test case added !">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b9858f8d-02ff-418b-a7a3-752d8fb4ac41" name="Changes" comment="Test case added !" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -368,7 +366,42 @@
       <option name="project" value="LOCAL" />
       <updated>1671551382194</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Test case added !">
+      <created>1671610273044</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1671610273044</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Test case added !">
+      <created>1671610324127</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1671610324127</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Test case added !">
+      <created>1671610335462</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1671610335462</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Test case added !">
+      <created>1671610349377</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1671610349377</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Test case added !">
+      <created>1671610360620</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1671610360620</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
