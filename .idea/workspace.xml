@@ -172,48 +172,6 @@
       <option name="presentableId" value="Default" />
       <updated>1669794058006</updated>
     </task>
-    <task id="LOCAL-00010" summary="Test case added !">
-      <created>1670584691846</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1670584691846</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Test case added !">
-      <created>1670584725165</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1670584725165</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Test case added !">
-      <created>1670584735522</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1670584735522</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Test case added !">
-      <created>1670941311453</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1670941311453</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Test case added !">
-      <created>1670941338423</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1670941338423</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Test case added !">
-      <created>1670941349556</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1670941349556</updated>
-    </task>
     <task id="LOCAL-00016" summary="Test case added !">
       <created>1670941360674</created>
       <option name="number" value="00016" />
@@ -515,7 +473,49 @@
       <option name="project" value="LOCAL" />
       <updated>1672332422552</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Test case added !">
+      <created>1672422277146</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1672422277146</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Test case added !">
+      <created>1672422335436</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1672422335436</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Test case added !">
+      <created>1672422411319</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1672422411319</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Test case added !">
+      <created>1672422431709</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1672422431709</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Test case added !">
+      <created>1672422457199</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1672422457199</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Test case added !">
+      <created>1672422477766</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1672422477766</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
