@@ -23,6 +23,7 @@ public class CaribFarm_Upload_Post_Page extends PageObjectManager {
         clickElement("id", addPost);
     }
 
+
     public void verifyAddNewPost(String add_new_post) {
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         isElementDisplayed("classname", addNewPost);
